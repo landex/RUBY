@@ -1,0 +1,1 @@
+esse é o arquivo que o meu programa vai abrir e ler isso é legal dei os primeiros passos em ruby mas preciso ir para o Rspec agora pois tem hora que é melhor correr logo do que aprender a andar
